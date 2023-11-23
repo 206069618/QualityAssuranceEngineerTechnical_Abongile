@@ -1,40 +1,45 @@
 # QualityAssuranceEngineerTechnical_Abongile
 
+**#Overview**
+This repository contains a Selenium framework for the Quality Assurance Engineer Technical Test. The framework is built using Maven and requires an Integrated Development Environment (IDE) such as IntelliJ, NetBeans, etc. Please ensure that the Java Development Kit (JDK) is installed on your machine.
 
+**Prerequisites**
+Before running the tests, make sure you have the following installed:
 
-Quality Assurance Engineer Technical Test - Selenium Framework
-This repository contains a Selenium framework for the Quality Assurance Engineer Technical Test. The framework is built using Maven and is designed to be executed in an IDE such as IntelliJ or NetBeans.
+**Java Development Kit (JDK):**
+You can download and install the JDK from Oracle or OpenJDK.
 
-Prerequisites
-Ensure you have an IDE installed (e.g., IntelliJ, NetBeans).
-Maven is required for building and managing dependencies.
+**Maven:**
+Make sure Maven is installed. You can download it from Maven Apache.
 
-Task 1 - API
-To execute Task 1 - API:
+**Integrated Development Environment (IDE):**
+Choose an IDE of your preference, such as IntelliJ, NetBeans, etc.
 
-Navigate to the Java class located at \QualityAssuranceEngineerTechnicalTest-main\QualityAssuranceEngineerTechnicalTest-main\src\test\java.
-Run the Java class associated with Task 1.
-Unit Test Reports for Task 1
-You can find the extent report for Task 1 at the following location:
+**Project Structure**
+The project is organized as follows:
 
-makefile
-Copy code
+**Task 1 - API:**
+To execute Task 1, run the Java class located at:
+QualityAssuranceEngineerTechnicalTest-main\QualityAssuranceEngineerTechnicalTest-main\src\test\java
+Unit Test reports for Task 1 can be found in the Extent Report at:
 C:\Users\x463528\Documents\QualityAssuranceEngineerTechnicalTest-main\QualityAssuranceEngineerTechnicalTest-main\Reports\API_AllDogs_List_And_Validation\22-24-2023 12-24-27
-Task 2 - Web
 
-
-To execute Task 2 - Web:
-
-Navigate to the Java class located at \QualityAssuranceEngineerTechnicalTest-main\QualityAssuranceEngineerTechnicalTest-main\src\test\java\SeleniumExecution.
-Run the Java class associated with Task 2.
-Unit Test Results for Task 2
-You can find the unit test results for Task 2 at the following location:
-
-makefile
-Copy code
+**Task 2 - Web:**
+To execute Task 2, run the Java class located at:
+QualityAssuranceEngineerTechnicalTest-main\QualityAssuranceEngineerTechnicalTest-main\src\test\java\SeleniumExecution
+Unit Test results for Task 2 can be found in the following directory:
 C:\Users\x463528\Documents\QualityAssuranceEngineerTechnicalTest-main\QualityAssuranceEngineerTechnicalTest-main\Reports\Web\23-50-2023 12-50-49
-Note: Make sure to review the test reports for detailed information on the execution and results.
+Prerequisites
+Ensure you have the following prerequisites before running the tests:
 
+**Execution Steps**
+Clone this repository to your local machine.
+Open the project in your preferred IDE.
+Configure the necessary dependencies using Maven.
+Execute Task 1 by running the corresponding Java class.
+Review the API test reports in the specified location.
+Execute Task 2 by running the corresponding Java class.
+Review the web test results in the specified directory.
 Feel free to reach out if you have any questions or encounter issues during the execution of the tests.
 
 
